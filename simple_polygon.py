@@ -54,3 +54,6 @@ def main():
 		vertices.append(point())
 
 	plot_task(vertices)
+	
+if __name__ == '__main__':
+	main()
