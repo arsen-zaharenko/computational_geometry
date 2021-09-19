@@ -53,3 +53,6 @@ def main():
 	P0 = point()
 	
 	plot_task(P1, P2, P0)
+	
+if __name__ == '__main__':
+	main()
